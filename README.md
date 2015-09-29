@@ -46,6 +46,10 @@ Note:
       Validations used in the text area so that user cannot add text in the No-Of-Pages section in Book Detail Page etc.
       
       Error Handling used in API calls for error detection.
+      
+      Developed using Xcode-7
+      
+      Tested in iPhone5, iPhone5s, iPhone6 with ios versions 9.0.1 & 8.1
     
     
     
