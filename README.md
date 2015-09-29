@@ -41,7 +41,7 @@ This demo project has been created by Abhishek Sharma for the ScanBuy organisati
     
     
     
-Note: 
+#Note: 
 
       Validations used in the text area so that user cannot add text in the No-Of-Pages section in Book Detail Page etc.
       
